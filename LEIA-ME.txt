@@ -1,0 +1,21 @@
+SITE ZILDA | CUIDADO AUTOMOTIVO
+Arquivos:
+- index.html: página principal
+- sobre.html: apresentação da empresa
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- css/style.css: estilos personalizados
+- assets/: imagens enviadas
+
+Como publicar:
+1. Extraia o ZIP.
+2. Envie todos os arquivos e pastas mantendo a estrutura para a hospedagem (pasta public_html, www ou equivalente).
+3. Abra index.html pelo domínio.
+4. Teste os links do WhatsApp, telefone, e-mail e páginas legais.
+
+Observações:
+- Bootstrap 5 e Bootstrap Icons são carregados por CDN; a hospedagem precisa permitir acesso à internet.
+- O site não possui formulário de envio nem sistema de agendamento.
+- Revise a Política de Privacidade se adicionar Google Analytics, Google Ads tag, remarketing, pixels, cookies ou formulários.
+- As imagens enviadas foram incluídas como material ilustrativo dos serviços.
+- Confirme os dados cadastrais, endereço e contatos antes de publicar.
